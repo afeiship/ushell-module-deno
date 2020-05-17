@@ -1,0 +1,27 @@
+{
+  "name": "@feizheng/ushell-module-deno",
+  "version": "1.0.0",
+  "description": "For deno.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-deno.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-deno"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-deno/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-deno",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
