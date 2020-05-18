@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/ushell-module-deno",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "For deno.",
   "main": "index.sh",
   "repository": {

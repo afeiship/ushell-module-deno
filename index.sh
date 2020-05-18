@@ -3,7 +3,7 @@
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
 # alias xxx='cd -';
-export DENO_INSTALL="$HOME/.deno"
-export PATH="$DENO_INSTALL/bin:$PATH"
+export DENO_DIR="$HOME/.deno"
+export PATH="$DENO_DIR/bin:$PATH"
 
 unset ROOT_PATH;
