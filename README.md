@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-deno
+npm i -S @jswork/ushell-module-deno
 ```
 
 ## resources
